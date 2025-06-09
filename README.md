@@ -1,3 +1,5 @@
-Diseño Responsivo del inicio de sesión de una aplicacion móvil![Screenshot_20250609_173644](https://github.com/user-attachments/assets/01d8ac57-2e51-4c90-a9bf-fd8b5e01e67e)
-![Screenshot_20250609_173940](https://github.com/user-attachments/assets/01a5214b-95ca-4fad-8660-3726f8b5cdeb)
-![Screenshot_20250609_173535](https://github.com/user-attachments/assets/12b66bb2-2d96-4900-bc67-6118e6f08500)
+Diseño Responsivo del inicio de sesión de una aplicacion móvil![Screenshot_20250609_173535](https://github.com/user-attachments/assets/4e8c21f0-aa90-44a1-a796-8224a218b2b1)
+![Screenshot_20250609_173940](https://github.com/user-attachments/assets/ba86d2d1-f73f-4bc6-b550-657df31bb607)
+![Screenshot_20250609_173644](https://github.com/user-attachments/assets/dd685f79-8543-4160-91f5-943c16984135)
+
+
